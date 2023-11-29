@@ -8,5 +8,6 @@ Technologies:
 - InertiaJS
 - Laravel 10
 - TailwindCSS
-
-Besides that, i've also added Ziggy so you can call your Laravel routes inside Javascript, Laravel Auditing as a log tool and Laravel Precognition for reactive forms validation.
+- Ziggy (So you can call your Laravel routes inside Javascript)
+- Laravel Auditing (To keep track of changes in you app Models)
+- Laravel Precognition (For live validation of your Frontend)
