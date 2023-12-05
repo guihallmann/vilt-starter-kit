@@ -8,5 +8,5 @@ I've created this repository to allow for a quick start at the development of th
 - Laravel 10
 - TailwindCSS
 - Ziggy (So you can call your Laravel routes inside Javascript)
-- Laravel Auditing (To keep track of changes in you app Models)
+- Laravel Auditing (To keep track of changes in your app Models)
 - Laravel Precognition (For live validation of your Frontend)
