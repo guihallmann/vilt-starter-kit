@@ -1,4 +1,4 @@
-# VILT Starter Kit
+# **VILT Starter Kit**
 
 I've created this repository to allow for a quick start at the development of the VILT stack apps.
 
