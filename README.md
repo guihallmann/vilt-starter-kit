@@ -2,7 +2,7 @@
 
 I've created this repository to allow for a quick start at the development of the VILT stack apps.
 
-You just need to clone it then run the following commands:
+To get started just clone this repository, change *.env.example* to *.env* and then run the following commands:
 
 `php artisan key:generate`
 
