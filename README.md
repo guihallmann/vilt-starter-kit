@@ -4,11 +4,15 @@ I've created this repository to allow for a quick start at the development of th
 
 You just need to clone it then run the following commands:
 
--   php artisan key:generate
--   npm install
--   composer install
--   npm run dev
--   php artisan serve
+`php artisan key:generate`
+
+`npm install`
+
+`composer install`
+
+`npm run dev`
+
+`php artisan serve`
 
 # Technologies:
 
