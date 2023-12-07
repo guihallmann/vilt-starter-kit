@@ -14,13 +14,13 @@ You just need to clone it then run the following commands:
 
 `php artisan serve`
 
-# Technologies:
+## Technologies:
 
 -   Vue 3
 -   InertiaJS
 -   Laravel 10
 -   TailwindCSS
--   Others:
+-   _Others_:
     -   Ziggy (So you can call your Laravel routes inside Javascript)
     -   Laravel Auditing (To keep track of changes in your app Models)
     -   Laravel Precognition (For live validation of your Frontend)
